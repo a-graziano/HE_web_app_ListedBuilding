@@ -1,0 +1,90 @@
+/* Styles for Heritage Site Inventory Web Application */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+  
+  #viewDiv {
+    height: 100vh;
+  }
+  
+  /* Header Styles */
+  .header {
+    background-color: #004d6d; /* Historic England Blue */
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  
+  /* Search Bar Styles */
+  .esri-search {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .esri-search__container {
+    background-color: #ffffff;
+    border-radius: 4px;
+  }
+  
+  .esri-search__input {
+    border: none;
+    padding: 8px;
+    width: 200px;
+  }
+  
+  .esri-search__submit-button {
+    background-color: #004d6d;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    color: #ffffff;
+  }
+  
+  .esri-search__submit-button:hover {
+    background-color: #003b52;
+  }
+  
+  /* Pop-up Styles */
+  .esri-popup {
+    max-width: 300px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    background-color: #ffffff;
+  }
+  
+  .esri-popup__header {
+    background-color: #004d6d;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 4px 4px 0 0;
+  }
+  
+  .esri-popup__header-title {
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  .esri-popup__content {
+    padding: 8px;
+  }
+  
+  .esri-popup__content--text {
+    font-size: 14px;
+  }
+  
+  /* Example: Link Styles */
+  a {
+    color: #004d6d;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
