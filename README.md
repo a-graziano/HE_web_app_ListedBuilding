@@ -13,8 +13,8 @@ This web application provides an interactive map displaying listed buildings in 
 ![Screenshot](search_widget.png)
   
 - Access detailed information about each listed building through pop-up templates.
+  ![Screenshot](pop_up.png)
 - Responsive design for optimal user experience on various devices.<br>
-![Screenshot](pop_up.png)
 
 ## Usage
 
