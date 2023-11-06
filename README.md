@@ -9,9 +9,12 @@ This web application provides an interactive map displaying listed buildings in 
 ## Features
 
 - View a map of listed buildings in England.
-- Search for specific buildings using the search widget.
+- Search for specific buildings using the search widget.<br>
+![Screenshot](search_widget.png)
+  
 - Access detailed information about each listed building through pop-up templates.
-- Responsive design for optimal user experience on various devices.
+- Responsive design for optimal user experience on various devices.<br>
+![Screenshot](pop_up.png)
 
 ## Usage
 
